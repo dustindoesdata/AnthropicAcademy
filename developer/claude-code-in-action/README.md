@@ -12,30 +12,30 @@
 ### What is Claude Code?
 - [x] Introduction
 - [x] What is a coding assistant?
-- [ ] Claude Code in action
+- [x] Claude Code in action
 
 ### Getting Hands On
-- [ ] Claude Code setup
-- [ ] Project setup
-- [ ] Adding context
-- [ ] Making changes
-- [ ] Controlling context
-- [ ] Custom commands
-- [ ] MCP servers with Claude Code
-- [ ] Github integration
+- [x] Claude Code setup
+- [x] Project setup
+- [x] Adding context
+- [x] Making changes
+- [x] Controlling context
+- [x] Custom commands
+- [x] MCP servers with Claude Code
+- [x] Github integration
 
 ### Hooks and the SDK
-- [ ] Introducing hooks
-- [ ] Defining hooks
-- [ ] Implementing a hook
-- [ ] Gotchas around hooks
-- [ ] Useful hooks!
-- [ ] Another useful hook
-- [ ] The Claude Code SDK
+- [x] Introducing hooks
+- [x] Defining hooks
+- [x] Implementing a hook
+- [x] Gotchas around hooks
+- [x] Useful hooks!
+- [x] Another useful hook
+- [x] The Claude Code SDK
 
 ### Wrapping Up
-- [ ] Quiz on Claude Code
-- [ ] Summary and next steps
+- [x] Quiz on Claude Code
+- [x] Summary and next steps
 
 ---
 
