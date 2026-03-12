@@ -1,6 +1,6 @@
 # Anthropic Academy
 
-> Structured learning materials from Anthropic Academy — notes, exercises, summaries, and certificates covering the full curriculum for building responsibly with Claude.
+> Structured learning materials from Anthropic Academy — notes covering the full curriculum for building responsibly with Claude.
 
 ---
 
@@ -17,7 +17,7 @@ All content reflects firsthand engagement with the curriculum — not third-part
 ### Developer Tracks
 
 - [x] Claude Code in Action — *Integrate Claude Code into your development workflow*
-- [ ] Claude 101 — *Core features and everyday work tasks*
+- [x] Claude 101 — *Core features and everyday work tasks*
 - [ ] Building with the Claude API — *Full spectrum of working with Anthropic models via the Claude API*
 - [ ] Introduction to Model Context Protocol — *Build MCP servers and clients from scratch using Python; tools, resources, and prompts*
 - [ ] Model Context Protocol: Advanced Topics — *Sampling, notifications, file system access, and transport mechanisms for production MCP servers*
@@ -38,14 +38,13 @@ All content reflects firsthand engagement with the curriculum — not third-part
 
 ---
 
-## Repository Contents
+## Repository Structure
 
-| Folder | Contents |
-|---|---|
-| `/notes` | Raw markdown notes, organized by course |
-| `/exercises` | Code exercises, prompt labs, and API examples |
-| `/summaries` | Course-level takeaways and key concepts |
-| `/certificates` | Completion certificates |
+Each course folder contains a `/notes` directory with markdown files for each lesson.
+
+Additional links will be included in the Links section at the bottom of the notes.
+
+Certifications are linked from my [GitHub profile README](https://github.com/dustindoesdata).
 
 ---
 
