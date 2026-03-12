@@ -11,7 +11,7 @@
 
 ### What is Claude Code?
 - [x] Introduction
-- [ ] What is a coding assistant?
+- [x] What is a coding assistant?
 - [ ] Claude Code in action
 
 ### Getting Hands On
