@@ -72,9 +72,21 @@ Not all models are equally capable at tool use. The Claude model family (Opus, S
 ---
 
 ## Personal Notes
-
+- Tool use is essentially an API pattern I already know from building 
+  automation pipelines, the model is just the orchestrator, not the executor
+- "Claude navigates codebases without indexing" is a direct security win 
+  for government/cleared work environments worth noting for client conversations
+- The three-step loop (gather > plan > act) mirrors how I'd scope any 
+  data engineering task before writing a line of code
 
 
 ---
 
 ## Follow-Up Questions
+
+- How does Claude decide *which* tool to use when multiple tools could apply?
+- What are the limits of tool use in Claude Code.
+- How many tools can be registered at once?
+- How does this tool use architecture compare to how Microsoft Fabric 
+  handles external integrations?
+- Where does MCP fit into this picture?
