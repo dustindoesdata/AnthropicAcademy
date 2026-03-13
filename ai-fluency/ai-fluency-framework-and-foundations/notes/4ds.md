@@ -1,4 +1,9 @@
+
 # The 4Ds of AI Fluency
+
+Course: AI Fluency — Framework & Foundations  
+Lesson: The 4Ds of AI Fluency  
+Status: ✅ Completed
 
 This lesson introduces the four core competencies of AI Fluency, also called the "4Ds": Delegation, Description, Discernment, and Diligence.
 

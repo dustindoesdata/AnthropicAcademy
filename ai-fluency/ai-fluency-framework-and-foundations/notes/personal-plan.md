@@ -1,4 +1,9 @@
+
 # Build a personal AI fluency plan
+
+Course: AI Fluency — Framework & Foundations  
+Lesson: Build a personal AI fluency plan  
+Status: ✅ Completed
 
 Use this template to create a structured plan for developing your AI fluency over time.
 

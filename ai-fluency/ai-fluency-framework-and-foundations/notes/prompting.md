@@ -1,4 +1,9 @@
+
 # Effective Prompting Techniques
+
+Course: AI Fluency — Framework & Foundations  
+Lesson: Effective Prompting Techniques  
+Status: ✅ Completed
 
 Effective prompting combines general clear-communication principles with AI-specific techniques. Below are six foundational prompting techniques and a short workflow for iterating prompts.
 

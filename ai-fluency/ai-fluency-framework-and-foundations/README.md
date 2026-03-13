@@ -1,4 +1,9 @@
+
 # AI Fluency: Framework & Foundations
+
+Course: AI Fluency — Framework & Foundations  
+Track: AI Fluency  
+Status: ✅ Completed
 
 This course introduces the core ideas and practical skills for AI Fluency. It covers the four core competencies (the "4Ds") — Delegation, Description, Discernment, and Diligence — and shows how they apply across three ways of working with AI: Automation, Augmentation, and Agency.
 
@@ -25,3 +30,14 @@ Key takeaways
 
 Notes
 See the lesson notes in the `./notes` folder for full details, exercises, and a personal AI fluency plan template.
+
+Lessons
+- [The 4Ds of AI Fluency](./notes/4ds.md) — Delegation, Description, Discernment, Diligence
+- [Effective Prompting Techniques](./notes/prompting.md)
+- [Build a personal AI fluency plan](./notes/personal-plan.md)
+
+---
+
+## Certificate
+
+- 🏅 [Certificate of Completion — Verify](http://verify.skilljar.com/c/qmp96cr5fhea)

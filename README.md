@@ -16,8 +16,8 @@ All content reflects firsthand engagement with the curriculum — not third-part
 
 ### Developer Tracks
 
-- [x] Claude Code in Action — *Integrate Claude Code into your development workflow*
-- [x] Claude 101 — *Core features and everyday work tasks*
+- [x] Claude Code in Action — *Integrate Claude Code into your development workflow* — 🏅 [Certificate](http://verify.skilljar.com/c/sdtnqxanobyk)
+- [x] Claude 101 — *Core features and everyday work tasks* — 🏅 [Certificate](http://verify.skilljar.com/c/wppqvysbffxn)
 - [ ] Building with the Claude API — *Full spectrum of working with Anthropic models via the Claude API*
 - [ ] Introduction to Model Context Protocol — *Build MCP servers and clients from scratch using Python; tools, resources, and prompts*
 - [ ] Model Context Protocol: Advanced Topics — *Sampling, notifications, file system access, and transport mechanisms for production MCP servers*
@@ -30,7 +30,7 @@ All content reflects firsthand engagement with the curriculum — not third-part
 
 ### AI Fluency Tracks
 
-- [ ] AI Fluency: Framework & Foundations — *Collaborate with AI effectively, efficiently, ethically, and safely*
+- [x] [AI Fluency: Framework & Foundations](ai-fluency/ai-fluency-framework-and-foundations) — *Collaborate with AI effectively, efficiently, ethically, and safely* (Completed) — 🏅 [Certificate](http://verify.skilljar.com/c/qmp96cr5fhea)
 - [ ] AI Fluency for Students — *AI fluency skills for learning, career planning, and academic success*
 - [ ] AI Fluency for Educators — *Apply AI fluency in teaching practice and institutional strategy*
 - [ ] AI Fluency for Nonprofits — *Increase organizational impact and efficiency through responsible AI*

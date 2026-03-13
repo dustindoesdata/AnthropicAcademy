@@ -51,3 +51,10 @@
 ---
 
 *Part of [Anthropic Academy](https://github.com/dustindoesdata/AnthropicAcademy)*
+
+---
+
+## Certificate
+
+- 🏅 [Certificate of Completion — Verify](http://verify.skilljar.com/c/sdtnqxanobyk)
+

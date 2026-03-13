@@ -43,7 +43,7 @@
 
  ## Additional Links
 
- - 🏅 [Certificate of Completion](#) *(add link)*
+- 🏅 [Certificate of Completion — Verify](http://verify.skilljar.com/c/wppqvysbffxn)
 
  ---
 
