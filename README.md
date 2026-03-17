@@ -18,7 +18,7 @@ All content reflects firsthand engagement with the curriculum — not third-part
 
 - [x] Claude Code in Action — *Integrate Claude Code into your development workflow* — 🏅 [Certificate](http://verify.skilljar.com/c/sdtnqxanobyk)
 - [x] Claude 101 — *Core features and everyday work tasks* — 🏅 [Certificate](http://verify.skilljar.com/c/wppqvysbffxn)
-- [ ] Building with the Claude API — *Full spectrum of working with Anthropic models via the Claude API*
+- [x] Building with the Claude API — *Full spectrum of working with Anthropic models via the Claude API*
 - [ ] Introduction to Model Context Protocol — *Build MCP servers and clients from scratch using Python; tools, resources, and prompts*
 - [ ] Model Context Protocol: Advanced Topics — *Sampling, notifications, file system access, and transport mechanisms for production MCP servers*
 - [ ] Introduction to Agent Skills — *Build, configure, and share reusable Skills in Claude Code*
