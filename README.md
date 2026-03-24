@@ -18,10 +18,12 @@ All content reflects firsthand engagement with the curriculum — not third-part
 
 - [x] Claude Code in Action — *Integrate Claude Code into your development workflow* — 🏅 [Certificate](http://verify.skilljar.com/c/sdtnqxanobyk)
 - [x] Claude 101 — *Core features and everyday work tasks* — 🏅 [Certificate](http://verify.skilljar.com/c/wppqvysbffxn)
+- [x] Introduction to Claude Cowork — *Run complex tasks, automate recurring work, and conduct research at scale* — 🏅 [Certificate](http://verify.skilljar.com/c/e6wgu5oktjn3)
 - [x] Building with the Claude API — *Full spectrum of working with Anthropic models via the Claude API*
-- [ ] Introduction to Model Context Protocol — *Build MCP servers and clients from scratch using Python; tools, resources, and prompts*
+- [x] Introduction to Model Context Protocol — *Build MCP servers and clients from scratch using Python; tools, resources, and prompts*
 - [ ] Model Context Protocol: Advanced Topics — *Sampling, notifications, file system access, and transport mechanisms for production MCP servers*
 - [ ] Introduction to Agent Skills — *Build, configure, and share reusable Skills in Claude Code*
+- [ ] Introduction to Subagents — *Use and create sub-agents in Claude Code to manage context and delegate tasks*
 
 ### Cloud & Platform Tracks
 
@@ -30,7 +32,7 @@ All content reflects firsthand engagement with the curriculum — not third-part
 
 ### AI Fluency Tracks
 
-- [x] [AI Fluency: Framework & Foundations](ai-fluency/ai-fluency-framework-and-foundations) — *Collaborate with AI effectively, efficiently, ethically, and safely* (Completed) — 🏅 [Certificate](http://verify.skilljar.com/c/qmp96cr5fhea)
+- [x] AI Fluency: Framework & Foundations — *Collaborate with AI effectively, efficiently, ethically, and safely* — 🏅 [Certificate](http://verify.skilljar.com/c/qmp96cr5fhea)
 - [ ] AI Fluency for Students — *AI fluency skills for learning, career planning, and academic success*
 - [ ] AI Fluency for Educators — *Apply AI fluency in teaching practice and institutional strategy*
 - [ ] AI Fluency for Nonprofits — *Increase organizational impact and efficiency through responsible AI*
@@ -42,9 +44,7 @@ All content reflects firsthand engagement with the curriculum — not third-part
 
 Each course folder contains a `/notes` directory with markdown files for each lesson.
 
-Additional links will be included in the Links section at the bottom of the notes.
-
-Certifications are linked from my [GitHub profile README](https://github.com/dustindoesdata).
+Certifications are linked inline above and from my [GitHub profile README](https://github.com/dustindoesdata).
 
 ---
 
