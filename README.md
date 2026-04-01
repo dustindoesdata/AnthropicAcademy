@@ -28,7 +28,7 @@ All content reflects firsthand engagement with the curriculum — not third-part
 ### Cloud & Platform Tracks
 
 - [x] Claude with Amazon Bedrock — *Working with Anthropic models via AWS* — 🏅 [Certificate](http://verify.skilljar.com/c/dg79n3345m75)
-- [ ] Claude with Google Cloud's Vertex AI — *Full spectrum of working with Anthropic models via Vertex AI*
+- [x] Claude with Google Cloud's Vertex AI — *Full spectrum of working with Anthropic models via Vertex AI*
 
 ### AI Fluency Tracks
 
